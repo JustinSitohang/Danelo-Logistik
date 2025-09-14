@@ -1,0 +1,10 @@
+/* Placeholder; ganti dengan styling Anda */
+body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin:0; }
+header { padding: 1rem 0; }
+footer { padding: 2rem 0; border-top: 1px solid #ddd; }
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+img { max-width: 100%; height: auto; }
+ul { padding-left: 1.2rem; }
+.container { max-width: 1100px; margin: 0 auto; padding: 1rem; }
+[aria-current="page"] { font-weight: 600; text-decoration: underline; }
